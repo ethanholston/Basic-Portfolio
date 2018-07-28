@@ -2,7 +2,6 @@ h2{
     color: #4aaaa5;
     font-family: 'Georgia', Times, Times New Roman, serif;
     border-bottom: 3px solid #cccccc;
-    /* padding: 10px; */
     margin: 25px 0 0 15px;
     padding-top: 15px;
     padding-bottom: 15px;
@@ -16,7 +15,6 @@ nav{
     top: 0;
     left: 0;
 }
-
 
 
 .navbar{
@@ -77,6 +75,13 @@ body{
     
 }
 
+#pic{
+    float: left;
+    position: relative;
+    padding: 20px;
+    margin-top: 10px;
+}
+
 p{
     margin: 25px 15px 20px 15px;
 }
@@ -92,23 +97,3 @@ p{
     top: 80px;
 }
 
-/* #home{
-    float: right;
-    border-right: 2px solid #cccccc;
-    margin-right: 10px;
-    padding-right: 10px;
-}
-
-#portfolio{
-    float: right;
-    border-right: 2px solid #cccccc;
-    margin-right: 10px;
-    padding-right: 10px;
-}
-
-#contact{
-    float: right;
-    border-right: 2px solid #cccccc;
-    margin-right: 10px;
-    padding-right: 10px;
-} */
